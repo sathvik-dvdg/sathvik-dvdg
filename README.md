@@ -1,7 +1,6 @@
 <div align="center">
 
 ![Banner](/dark.svg)
-<!..![Banner](/light.svg)..>
 
 </div>
 
