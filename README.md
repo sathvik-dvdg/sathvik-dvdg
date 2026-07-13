@@ -1,7 +1,7 @@
 <div align="center">
 
-![Banner](assets/dark.svg#gh-dark-mode-only)
-![Banner](assets/light.svg#gh-light-mode-only)
+![Banner](/dark.svg)
+![Banner](/light.svg)
 
 </div>
 
