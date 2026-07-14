@@ -118,12 +118,12 @@ Privacy-first OCR redaction application that identifies and redacts personally i
 
 <div align="center">
 
-<img src="https://github-readme-stats1-teal-eta.vercel.app/api?username=sathvik-dvdg&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" width="49%" alt="GitHub Stats"/>
-<img src="https://github-readme-stats1-teal-eta.vercel.app/api/top-langs/?username=sathvik-dvdg&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" width="30%" alt="Top Languages"/>
+<img src="https://github-readme-stats1-teal-eta.vercel.app/api?username=sathvik-dvdg&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;v=1" width="49%" alt="GitHub Stats"/>
+<img src="https://github-readme-stats1-teal-eta.vercel.app/api/top-langs/?username=sathvik-dvdg&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;v=1" width="30%" alt="Top Languages"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathvik-dvdg&amp;theme=tokyonight&amp;hide_border=true" width="49%" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sathvik-dvdg&amp;theme=tokyonight&amp;hide_border=true&amp;v=1" width="49%" alt="GitHub Streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathvik-dvdg&amp;theme=tokyo-night&amp;hide_border=true" width="98%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sathvik-dvdg&amp;theme=tokyo-night&amp;hide_border=true&amp;v=1" width="98%" alt="Contribution Graph"/>
 
 </div>
 
